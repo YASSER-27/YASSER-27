@@ -17,17 +17,6 @@ I started with **zero** knowledge of programming. I had never written a single l
 - **Specialties:** AI Code Editors (IDEs), Forensic Code Auditing, Desktop Productivity Tools.
 
 ---
-
-##Featured Projects 
-
-| Project | Showcase | Link |
-| :--- | :--- | :--- |
-| **Note-Studio-Ai** <br> AI-Native IDE focused on privacy and local LLMs. | <img src="assets/NoteStudio.png" width="400" height="225" /> | [Explore Repo](https://github.com/YASSER-27/Note-Studio-Ai) |
-| **Code-Auditor** <br> Forensic tool for detecting logic plagiarism. | <img src="assets/code-auditor.ico" width="400" height="225" /> | [Explore Repo](https://github.com/YASSER-27/code-auditor) |
-| **README-Builder** <br> Professional GUI tool for crafting READMEs. | <img src="assets/Builder.png" width="400" height="225" /> | [Explore Repo](https://github.com/YASSER-27/README-Builder) |
-| **OpenDoor** <br> Intelligent AI coding assistant with C++ core. | <img src="assets/OpenDoor.png" width="400" height="225" /> | [Explore Repo](https://github.com/YASSER-27/opendoor) |
-
----
 ## My GitHub Activity & Metrics
 
 <p align="center">
@@ -35,14 +24,8 @@ I started with **zero** knowledge of programming. I had never written a single l
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YASSER-27&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASSER-27&layout=compact&theme=tokyonight&border_radius=10" height="180em" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="100%" />
 </div>
-
 ---
 
 ## 📂 All Repositories (28+)
@@ -80,8 +63,4 @@ I started with **zero** knowledge of programming. I had never written a single l
 * **Creat-Ai-image-on-phone** (Kotlin): Free AI image generator app for mobile.
 </details>
 
----
-
-## Support My Innovation 
-
-I represent a new era of developers. I build at the speed of thought using AI. Your sponsorship helps me maintain my 28+ projects and continue exploring the boundaries of what a "non-coder" can achieve when empowered by technology.
+**Done! ✅**
