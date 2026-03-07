@@ -18,15 +18,14 @@ I started with **zero** knowledge of programming. I had never written a single l
 
 ---
 
-## Featured Projects 
+##Featured Projects 
 
 | Project | Showcase | Link |
 | :--- | :--- | :--- |
-| **Note-Studio-Ai** <br> AI-Native IDE focused on privacy and local LLMs. | ![img](assets/Note Studio.png) | [Explore Repo](https://github.com/YASSER-27/Note-Studio-Ai) |
-| **Code-Auditor** <br> Forensic tool for detecting logic plagiarism. | ![img](assets/code-auditor.ico) | [Explore Repo](https://github.com/YASSER-27/code-auditor) |
-| **README-Builder** <br> Professional GUI tool for crafting READMEs. |![img](assets/Builder.png) | [Explore Repo](https://github.com/YASSER-27/README-Builder) |
-| **OpenDoor** <br> Intelligent AI coding assistant with C++ core. | ![img](assets/OpenDoor.png)  | [Explore Repo](https://github.com/YASSER-27/opendoor) |
-
+| **Note-Studio-Ai** <br> AI-Native IDE focused on privacy and local LLMs. | <img src="assets/NoteStudio.png" width="400" height="225" /> | [Explore Repo](https://github.com/YASSER-27/Note-Studio-Ai) |
+| **Code-Auditor** <br> Forensic tool for detecting logic plagiarism. | <img src="assets/code-auditor.ico" width="400" height="225" /> | [Explore Repo](https://github.com/YASSER-27/code-auditor) |
+| **README-Builder** <br> Professional GUI tool for crafting READMEs. | <img src="assets/Builder.png" width="400" height="225" /> | [Explore Repo](https://github.com/YASSER-27/README-Builder) |
+| **OpenDoor** <br> Intelligent AI coding assistant with C++ core. | <img src="assets/OpenDoor.png" width="400" height="225" /> | [Explore Repo](https://github.com/YASSER-27/opendoor) |
 
 ---
 ## My GitHub Activity & Metrics
