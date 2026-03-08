@@ -8,16 +8,13 @@
 
 I started with **zero** knowledge of programming. I had never written a single line of code in my life. But I had a vision. I began leveraging AI as my co-pilot, learning day by day how to debug, fix syntax, and master the logic behind the brackets. Today, I spend days in front of my screen, turning "weird" ideas into **28+ functional tools**. I am a living proof that with AI and passion, anyone can become a creator.
 
----
-
 ## Tech & Tools
 
 - **The Brain:** Prompt Engineering & AI Logic Orchestration.
 - **Languages (Guided by AI):** Python, JavaScript, TypeScript, C++, Kotlin, HTML/CSS.
 - **Specialties:** AI Code Editors (IDEs), Forensic Code Auditing, Desktop Productivity Tools.
 
----
-## My GitHub Activity & Metrics
+## My GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASSER-27&theme=tokyonight&area=true&hide_border=true" width="100%" />
@@ -28,13 +25,18 @@ I started with **zero** knowledge of programming. I had never written a single l
 </div>
 ---
 
-## 📂 All Repositories (28+)
+## 📂 All Repositories (31+)
 
 <details>
 <summary><b>Click to expand full project list</b></summary>
 <br>
 
+* **dw-downloader** (Python): terminal-based video and audio downloader
+
+* **README Lite** (Python): README Builder GUI.only 60mb
+
 * **gamanote** (JavaScript): desktop IDE and note-taking application.
+
 * **code-auditor** (TypeScript): Forensic code auditing tool designed to detect logic plagiarism.
 * **opendoor** (Python): AI coding assistant with a C++ core.
 * **README-Builder** (Python): README Builder GUI.
@@ -64,3 +66,4 @@ I started with **zero** knowledge of programming. I had never written a single l
 </details>
 
 **Done! ✅**
+
