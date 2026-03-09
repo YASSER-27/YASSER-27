@@ -18,41 +18,28 @@ I started with **zero** knowledge of programming. I had never written a single l
   <img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
-<details open> 
 
-<summary><h2>Featured Projects</h2></summary> 
-
-<p align="left"> 
-
-<a href="https://github.com/YASSER-27/README-Architect"> 
-
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=README-Architect&theme=react&bg_color=181818&title_color=F8aD7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="README Architect">
-
-<p align="left"> 
-
-<a href="https://github.com/YASSER-27/code-auditor"> 
-
-<a href="https://github.com/YASSER-27/code-auditor"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=code-auditor&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="code-auditor"> </a>
-
-<a href="https://github.com/YASSER-27/gamanote"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=gamanote&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="gamanote"> </a>
-
-<a href="https://github.com/YASSER-27/Note-Studio-Ai"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=Note-Studio-Ai&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Note-Studio-Ai"> </a>
-
-<a href="https://github.com/YASSER-27/Readme_Lite"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=Readme_Lite&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Readme_Lite"> </a>
-
-</p>
-</details>
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/YASSER-27/code-auditor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=code-auditor&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a></td>
+    <td><a href="https://github.com/YASSER-27/gamanote"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=gamanote&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/YASSER-27/Note-Studio-Ai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=Note-Studio-Ai&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a></td>
+    <td><a href="https://github.com/YASSER-27/Readme_Lite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=Readme_Lite&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a></td>
+  </tr>
+</table>
 
 ## My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASSER-27&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASSER-27&theme=tokyonight&area=true&hide_border=true" width="80%" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="80%" />
 </div>
----
+
 
 ## 📂 All Repositories (31+)
 
@@ -95,6 +82,7 @@ I started with **zero** knowledge of programming. I had never written a single l
 </details>
 
 **Done! ✅**
+
 
 
 
