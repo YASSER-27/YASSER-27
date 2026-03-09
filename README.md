@@ -1,7 +1,7 @@
 # Hi there, I'm Yasser
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=anyone+can+become+a creator;Believe in yourself;and give it Everything you've got" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Anyone+can+become+a+creator;Believe+in+yourself;Give+it+everything+you've+got" alt="Typing SVG" />
 </p>
 
 ## My Journey 
@@ -95,5 +95,6 @@ I started with **zero** knowledge of programming. I had never written a single l
 </details>
 
 **Done! ✅**
+
 
 
