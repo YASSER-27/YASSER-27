@@ -1,18 +1,47 @@
-# Hi there, I'm Yasser 👋
+# Hi there, I'm Yasser
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Software+Developer;Productivity+Tool+Maker;AI-Native+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=anyone+can+become+a creator;Believe in yourself;and give it Everything you've got" alt="Typing SVG" />
 </p>
 
 ## My Journey 
 
 I started with **zero** knowledge of programming. I had never written a single line of code in my life. But I had a vision. I began leveraging AI as my co-pilot, learning day by day how to debug, fix syntax, and master the logic behind the brackets. Today, I spend days in front of my screen, turning "weird" ideas into **28+ functional tools**. I am a living proof that with AI and passion, anyone can become a creator.
 
-## Tech & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/C++-181818?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Kotlin-181818?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
 
-- **The Brain:** Prompt Engineering & AI Logic Orchestration.
-- **Languages (Guided by AI):** Python, JavaScript, TypeScript, C++, Kotlin, HTML/CSS.
-- **Specialties:** AI Code Editors (IDEs), Forensic Code Auditing, Desktop Productivity Tools.
+<details open> 
+
+<summary><h2>Featured Projects</h2></summary> 
+
+<p align="left"> 
+
+<a href="https://github.com/YASSER-27/README-Architect"> 
+
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=README-Architect&theme=react&bg_color=181818&title_color=F8aD7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="README Architect">
+
+<p align="left"> 
+
+<a href="https://github.com/YASSER-27/code-auditor"> 
+
+<a href="https://github.com/YASSER-27/code-auditor"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=code-auditor&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="code-auditor"> </a>
+
+<a href="https://github.com/YASSER-27/gamanote"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=gamanote&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="gamanote"> </a>
+
+<a href="https://github.com/YASSER-27/Note-Studio-Ai"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=Note-Studio-Ai&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Note-Studio-Ai"> </a>
+
+<a href="https://github.com/YASSER-27/Readme_Lite"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=Readme_Lite&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Readme_Lite"> </a>
+
+</p>
+</details>
 
 ## My GitHub Activity
 
@@ -66,4 +95,5 @@ I started with **zero** knowledge of programming. I had never written a single l
 </details>
 
 **Done! ✅**
+
 
