@@ -1,10 +1,8 @@
-# Hi there, I'm Yasser
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Anyone+can+become+a+creator;Believe+in+yourself;Give+it+everything+you've+got" alt="Typing SVG" />
 </p>
 
-## My Journey 
+## Journey 
 
 I started with **zero** knowledge of programming. I had never written a single line of code in my life. But I had a vision. I began leveraging AI as my co-pilot, learning day by day how to debug, fix syntax, and master the logic behind the brackets. Today, I spend days in front of my screen, turning "weird" ideas into **28+ functional tools**. I am a living proof that with AI and passion, anyone can become a creator.
 
@@ -28,16 +26,19 @@ I started with **zero** knowledge of programming. I had never written a single l
     <td><a href="https://github.com/YASSER-27/Note-Studio-Ai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=Note-Studio-Ai&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a></td>
     <td><a href="https://github.com/YASSER-27/Readme_Lite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=Readme_Lite&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a></td>
   </tr>
+<td><a href="https://github.com/YASSER-27/LIve-Wallpaper-Desktop"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=LIve-Wallpaper-Desktop&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="LIve-Wallpaper-Desktop"> </a></td>
+<td><a href="https://github.com/YASSER-27/Quran-Offline-Pc"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=Quran-Offline-Pc&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Quran-Offline-Pc"> </a></td>
+  </tr>
 </table>
 
-## My GitHub Activity
+### Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASSER-27&theme=tokyonight&area=true&hide_border=true" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASSER-27&theme=tokyonight&area=true&hide_border=true" width="90%" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="90%" />
 </div>
 
 
@@ -81,7 +82,8 @@ I started with **zero** knowledge of programming. I had never written a single l
 * **Creat-Ai-image-on-phone** (Kotlin): Free AI image generator app for mobile.
 </details>
 
-**Done! ✅**
+**Done!**
+
 
 
 
