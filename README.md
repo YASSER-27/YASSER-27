@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Anyone+can+become+a+creator;Believe+in+yourself;Give+it+everything+you've+got" alt="Typing SVG" />
 </p>
 
-## Journey 
-
-I started with **zero** knowledge of programming. I had never written a single line of code in my life. But I had a vision. I began leveraging AI as my co-pilot, learning day by day how to debug, fix syntax, and master the logic behind the brackets. Today, I spend days in front of my screen, turning "weird" ideas into **28+ functional tools**. I am a living proof that with AI and passion, anyone can become a creator.
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -83,6 +79,7 @@ I started with **zero** knowledge of programming. I had never written a single l
 </details>
 
 **Done!**
+
 
 
 
