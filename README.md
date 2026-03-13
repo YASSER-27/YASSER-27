@@ -23,12 +23,8 @@
   </tr>
 </table>
 
-<p align="leftr">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASSER-27&theme=tokyonight&area=true&hide_border=true" width="60%" />
-</p>
-
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="65%" />
 </div>
 
 ## 📂 All Repositories (31+)
@@ -72,6 +68,7 @@
 </details>
 
 **Done!**
+
 
 
 
