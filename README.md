@@ -27,7 +27,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="70%" />
 </div>
 
-## 📂 All Repositories (31+)
+## 📂Repositories
 
 <details>
 <summary><b>Click to expand full project list</b></summary>
@@ -67,7 +67,6 @@
 * **Creat-Ai-image-on-phone** (Kotlin): Free AI image generator app for mobile.
 </details>
 
-**Done!**
 
 
 
