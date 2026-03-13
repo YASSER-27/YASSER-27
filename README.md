@@ -24,7 +24,7 @@
 </table>
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="65%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="70%" />
 </div>
 
 ## 📂 All Repositories (31+)
@@ -68,6 +68,7 @@
 </details>
 
 **Done!**
+
 
 
 
