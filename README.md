@@ -9,22 +9,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Anyone+can+become+a+creator;Believe+in+yourself;Give+it+everything+you've+got" alt="Typing SVG" />
 </p>
 
-<table align="left">
-  <tr>
-    <td><a href="https://github.com/YASSER-27/code-auditor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=code-auditor&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a></td>
-    <td><a href="https://github.com/YASSER-27/gamanote"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=gamanote&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/YASSER-27/Note-Studio-Ai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=Note-Studio-Ai&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a></td>
-    <td><a href="https://github.com/YASSER-27/Readme_Lite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=Readme_Lite&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true"></a></td>
-  </tr>
-<td><a href="https://github.com/YASSER-27/LIve-Wallpaper-Desktop"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=LIve-Wallpaper-Desktop&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="LIve-Wallpaper-Desktop"> </a></td>
-<td><a href="https://github.com/YASSER-27/Quran-Offline-Pc"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YASSER-27&repo=Quran-Offline-Pc&theme=react&bg_color=181818&title_color=F87D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Quran-Offline-Pc"> </a></td>
-  </tr>
-</table>
+
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="50%" />
 </div>
 
 ## 📂Repositories
