@@ -1,15 +1,14 @@
 <p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Anyone+can+become+a+creator;Believe+in+yourself;Give+it+everything+you've+got" alt="Typing SVG" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Kotlin-181818?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
   <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26" />
 </p>
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Anyone+can+become+a+creator;Believe+in+yourself;Give+it+everything+you've+got" alt="Typing SVG" />
-</p>
-
-
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASSER-27&theme=tokyonight&border_radius=10" width="50%" />
