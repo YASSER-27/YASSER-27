@@ -1,4 +1,8 @@
-### YASSER-27
+
+
+<img src="assets/yasser_me.png" alt="27 in space" width="960">
+
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -6,12 +10,6 @@
   <img src="https://img.shields.io/badge/Kotlin-181818?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
   <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26" />
 </p>
-
-**Software Developer | Open Source Advocate**
-
-<img src="assets/468c85d3.png" alt="27 in space" width="960">
-
-
 
 
 
