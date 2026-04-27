@@ -9,7 +9,7 @@
 
 **Software Developer | Open Source Advocate**
 
-<img src="assets/150738.jpg" alt="27 in space" width="960">
+<img src="assets/468c85d3.png" alt="27 in space" width="960">
 
 
 
