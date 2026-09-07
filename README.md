@@ -1,8 +1,5 @@
 
 
-<img src="assets/yasser_me.png" alt="27 in space" width="960">
-
-
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-181818?style=for-the-badge&logo=c-sharp&logoColor=239120" />
   <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=3776AB" />
